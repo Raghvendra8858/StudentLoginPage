@@ -1,0 +1,12 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+
+	
+	background-image: url("img1.jpg");
+	background-position:center;
+	background-size: cover;
+	background-color: #cccccc;
+
+}
